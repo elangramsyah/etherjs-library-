@@ -6,14 +6,14 @@ This README provides information about the Ether library.
 The Ether library is designed to {describe_ether_library_purpose}.
 
 ### Features
-- {list_main_features}
+- get block data
 
 ### Installation
 To install, run:
 ```sh
-{installation_instructions}
+git clone https://github.com/elangramsyah/etherjs-library-.git
 ```
 
 ### License
-{license_info}
+MIT
 

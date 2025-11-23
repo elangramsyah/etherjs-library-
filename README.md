@@ -14,12 +14,6 @@ To install, run:
 {installation_instructions}
 ```
 
-### Usage
-Example usage:
-```python
-{example_code}
-```
-
 ### License
 {license_info}
 
